@@ -9,7 +9,7 @@
 ![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?logo=vuedotjs&logoColor=white)
 
 <!-- show github-statistics -->
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rehab-23&show_icons=true&theme=transparent)
+![](https://github-readme-stats.vercel.app/api?username=rehab-23&show_icons=true&theme=transparent)
 <!--
 **rehab-23/rehab-23** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

@@ -7,3 +7,6 @@
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?logo=laravel&logoColor=white)
 ![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?logo=vuedotjs&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-blueviolet?logo=bootstrap&logoColor=white)
+![Windows](https://img.shields.io/badge/Windows-grey?logo=windows&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-grey?logo=linux&logoColor=white)
